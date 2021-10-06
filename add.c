@@ -9,5 +9,5 @@ void addtwo()
 }
 void main()
 {
-
+    add n1+n2;
 }
